@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+outputs/
+*.safetensors
+*.gguf
+.ipynb_checkpoints/
+unsloth_compiled_cache/
