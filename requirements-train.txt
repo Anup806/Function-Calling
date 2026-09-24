@@ -1,0 +1,6 @@
+unsloth
+pydantic
+jsonschema
+python-dotenv
+pandas
+tqdm
