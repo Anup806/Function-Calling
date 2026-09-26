@@ -8,3 +8,5 @@ outputs/
 *.gguf
 .ipynb_checkpoints/
 unsloth_compiled_cache/
+
+*.log
